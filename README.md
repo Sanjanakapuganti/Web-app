@@ -26,6 +26,8 @@ A simple and interactive **Streamlit web application** that allows users to uplo
 - **Pandas**
 - **Seaborn**
 - **Matplotlib**
+
+
 you can check my app on streamlit cloud:
 https://dataset-analyser-web-app.streamlit.app/
 ---
